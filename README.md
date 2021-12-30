@@ -1,6 +1,6 @@
 ### Olá Eu sou Lucas do Couto 🙋‍♂️
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-)]([https://](https://www.linkedin.com/in/lucas-do-couto/))
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-)](https://www.linkedin.com/in/lucas-do-couto/)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascouto91&show_icons=true&theme=dark)
 
