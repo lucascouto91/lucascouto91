@@ -6,7 +6,7 @@
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Texto Alternativo" width="70">
 </a>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascouto91&show_icons=true&theme=dark)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascouto91&show_icons=true&theme=dark&hide=stars)
 
 ## Tecnologias sendo utilizadas
 
