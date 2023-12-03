@@ -1,7 +1,7 @@
 ### Olá Eu sou Lucas do Couto 🙋‍♂️
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/lucas-do-couto/)&nbsp;&nbsp;
-<a href="[URL_do_Link](https://www.dio.me/users/lucascouto91)" style="background: black; display: inline-block; text-decoration: none;">
+<a href="https://www.dio.me/users/lucascouto91" style="background: black; display: inline-block; text-decoration: none;">
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Texto Alternativo" width="70">
 </a>
 
