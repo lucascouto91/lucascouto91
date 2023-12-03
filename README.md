@@ -1,7 +1,8 @@
-### Olá Eu sou Lucas do Couto 🙋‍♂️
+# Olá Eu sou Lucas do Couto 🙋‍♂️
+## Conecte-se comigo
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/lucas-do-couto/)&nbsp;&nbsp;
-<a href="https://www.dio.me/users/lucascouto91" style="background: black; display: inline-block; text-decoration: none;">
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/lucas-do-couto/ "target=_blank")&nbsp;&nbsp;
+<a href="https://www.dio.me/users/lucascouto91" style=" display: inline-block; text-decoration: none;" target="_blank">
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Texto Alternativo" width="70">
 </a>
 
@@ -9,8 +10,9 @@
 
 ## Tecnologias sendo utilizadas
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
