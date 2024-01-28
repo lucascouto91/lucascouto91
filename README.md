@@ -1,18 +1,21 @@
 # Olá Eu sou Lucas do Couto 🙋‍♂️
 ## Conecte-se comigo
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/lucascouto91/ "target=_blank")&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)&nbsp;&nbsp;
 <a href="https://www.dio.me/users/lucascouto91" style=" display: inline-block; text-decoration: none;" target="_blank">
-  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Texto Alternativo" width="70">
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="Texto Alternativo" width="110">
 </a>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascouto91&show_icons=true&theme=dark&hide=stars)
 
 ## Tecnologias sendo utilizadas
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/19/docs/api/index.html)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3.12/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/docs/)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-
+[![My Skills](https://skillicons.dev/icons?i=kotlin&theme=light)](https://kotlinlang.org/docs/home.html)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://docs.oracle.com/en/java/javase/19/docs/api/index.html)
+[![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://docs.python.org/3.12/)
+[![My Skills](https://skillicons.dev/icons?i=gradle&theme=light)](https://docs.gradle.org/current/userguide/userguide.html)
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org/docs/)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://dev.mysql.com/doc/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/docs/)
+[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://learning.postman.com/docs/introduction/overview/)
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://help.figma.com/hc/en-us)
